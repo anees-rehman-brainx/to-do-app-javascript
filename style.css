@@ -1,0 +1,10 @@
+body{
+    background-color:#439bff ;
+}
+
+.container{
+    width: 50%;
+    background: wheat;
+    margin: auto;
+    border-radius: 5px;
+}
